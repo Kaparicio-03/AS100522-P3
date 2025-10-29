@@ -1,0 +1,16 @@
+rules:
+  collectionRules:
+    polhj7vv:
+      creat:
+        users: {}
+      read:
+        users: {}
+      update:
+        users: {}
+      delete:
+        users: {}
+      deleteWhenUserIsDeleted: true
+storageRules:
+  excludeFromStorageRules: true
+  rules:
+    userUploadsArePrivate: false

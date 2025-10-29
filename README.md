@@ -53,8 +53,7 @@ Todo en **5-10 segundos** desde una URL de imagen.
 
 
 ## 🏗️ Arquitectura
-
-Ver archivo dentro del repositorio llamada "Diagrama-Infraestructura-SmartChefAI"
+<img width="1536" height="1024" alt="Diagrama-Infraestructura-SmartChefAI" src="https://github.com/user-attachments/assets/6bd2d399-9711-4f0a-abf5-83f0951ae0ae" />
 **Flujo:**
 ```
 Usuario → FlutterFlow App → Firebase (Auth + OTP) →

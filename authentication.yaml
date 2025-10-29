@@ -17,7 +17,7 @@ firebase:
 firebaseConfigFileInfos:
   - androidPath: users/x8Wxuk71BxVAnu8Lc0aukQksb7f1/projects/smart-chef-997skc/configs/6fkobjldyrf0/google-services.json
     iosPath: users/x8Wxuk71BxVAnu8Lc0aukQksb7f1/projects/smart-chef-997skc/configs/6z718xecqbw6/GoogleService-Info.plist
-    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"smartchef-6f9d5\",\n  \"appId\": \"1:22133203278:web:c1b110908693b7742bfe1f\",\n  \"storageBucket\": \"smartchef-6f9d5.firebasestorage.app\",\n  \"apiKey\": \"AIzaSyB0pZ-qTbDX7HE3ACQlLOxhdSV89E5AN_E\",\n  \"authDomain\": \"smartchef-6f9d5.firebaseapp.com\",\n  \"messagingSenderId\": \"22133203278\",\n  \"measurementId\": \"G-CNSZPYJ0P5\",\n  \"projectNumber\": \"22133203278\",\n  \"version\": \"2\"\n});\n"
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"smartchef-6f9d5\",\n  \"appId\": \"1:22133203278:web:c1b110908693b7742bfe1f\",\n  \"storageBucket\": \"smartchef-6f9d5.firebasestorage.app\",\n  \"apiKey\": \"",\n  \"authDomain\": \"smartchef-6f9d5.firebaseapp.com\",\n  \"messagingSenderId\": \"22133203278\",\n  \"measurementId\": \"G-CNSZPYJ0P5\",\n  \"projectNumber\": \"22133203278\",\n  \"version\": \"2\"\n});\n"
     androidPackageNames:
       - com.mycompany.smartchef
     iosBundleId: com.mycompany.smartchef

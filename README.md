@@ -46,8 +46,8 @@ Todo en **5-10 segundos** desde una URL de imagen.
 ## 🔗 Enlaces Importantes
 
 - **App Demo:** https://app.flutterflow.io/share/smart-chef-997skc
-- **Video MVP:** [Link de YouTube - Video 1]
-- **Video Prompt IA:** [Link de YouTube - Video 2]
+- **Video MVP:** https://www.youtube.com/watch?v=48RXivlMXvs
+- **Video Prompt IA:** https://www.youtube.com/watch?v=X4t2hWCRtEg
 
 ---
 
